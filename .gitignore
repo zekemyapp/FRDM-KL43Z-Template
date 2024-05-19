@@ -1,0 +1,6 @@
+.vscode/cmake-kits.json
+.vscode/mcuxpresso-tools.json
+.vscode/tasks.json
+
+# Mac
+.DS_Store

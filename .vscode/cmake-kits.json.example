@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ARM GCC",
+    "environmentVariables": {
+      "ARMGCC_DIR": "path/to/toolkit",
+      "MCUX_SDK_DIR":"path/to/sdk"
+    },
+    "cmakeSettings": {},
+    "keep": true,
+    "toolchainFile": "path/to/sdk/tools/cmake_toolchain_files/armgcc.cmake"
+  }
+]
