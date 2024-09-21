@@ -3,5 +3,6 @@
   "C_Cpp.errorSquiggles": "disabled",
   "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
   "cmake.sourceDirectory": "${workspaceFolder}/armgcc",
-  "cmake.buildDirectory": "${workspaceFolder}/armgcc/build"
+  "cmake.buildDirectory": "${workspaceFolder}/armgcc/build",
+  "cmake.useCMakePresets": "never"
 }
