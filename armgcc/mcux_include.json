@@ -9,7 +9,7 @@
       "displayName": "default-env",
       "hidden": true,
       "environment": {
-        "ARMGCC_DIR": "/home/jruiz/Sources/Toolchains/gcc-arm-none-eabi-9-2019-q4-major",
+        "ARMGCC_DIR": "path/to/toolchain",
         "SdkRootDirPath": "",
         "POSTPROCESS_UTILITY": ""
       }
